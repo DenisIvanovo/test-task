@@ -50,7 +50,6 @@ def composing_elements():
             point = index_element
             summing_up_the_esults.append(f'{asc[ind - 1]} : {interval}')
             ind += 1
-            continue
 
     print('//////////////////////////////////////////////////////////////////////////////////////////////////////////')
     return summing_up_the_esults  # Возвращаем полученный результат.
